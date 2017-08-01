@@ -11,12 +11,11 @@
 }
 .box_2 {
 }
-.image {
+.ellipse {
+}
+._图片 {
 }
 .button {
-}
-.primary_button {
-  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -80,6 +79,8 @@
   color:#000000;
   text-align:left;
 }
-.html_button {
-  text-align:center;
+.radio_button {
+  text-align:left;
+}
+._流程形状 {
 }
